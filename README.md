@@ -1,5 +1,5 @@
 # HPC2022
-Лабораторные по HPC
+Лабораторные по HPC /n
 MatMul - 
 SumVevt - 
 bilateral -
